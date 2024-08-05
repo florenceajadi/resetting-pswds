@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
 </p>
 
-<h1>Resetting User Pswds In Active Directory Users and Computers</h1>
+<h1>Resetting User Pswds and Creating Groups In Active Directory Users and Computers</h1>
 This tutorial outlines the implementation of resetting user pswds and creating groups in Active Directory within Azure Virtual Machines.<br />
 
 
